@@ -1,5 +1,4 @@
 class Part1
-  attr_reader :position1, :position2, :position3, :position4, :position5
 
   def initialize
     @input =  File.readlines("input2.txt", chomp: true)
