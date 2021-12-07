@@ -72,9 +72,6 @@ class Part2
     end
    numbers
  end
-
-
-
 end
 
 
